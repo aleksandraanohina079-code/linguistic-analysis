@@ -1,0 +1,17 @@
+=== NLP TEXT ANALYZER ===
+
+Number of words: 31
+Number of unique words: 26
+Average word length: 6.71
+
+Most frequent words:
+language - 4
+linguistics - 3
+and - 2
+is - 1
+a - 1
+system - 1
+of - 1
+signs - 1
+used - 1
+for - 1
