@@ -4,6 +4,7 @@ Linguistics studies language and its structure.
 Computational linguistics combines linguistics and computer science.
 """
 
-words = text.split()
+words = text.lower().split()
 
 print("Number of words:", len(words))
+print("First five words:", words[:5])
